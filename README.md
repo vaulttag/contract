@@ -1,4 +1,4 @@
-# FEVM Hardhat Kit
+# VaultTag Multi-sig Wallet
 
 ## Cloning the Repo
 
